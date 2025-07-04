@@ -233,7 +233,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/hxrS7TXf/MEF-AAP-027-BAP-2025-06-29-15-10-37.png',
+            image: 'https://i.ibb.co/gH63MmW/MEF-AAP-027-BAP-2025-07-04-11-39-03.png',
             description: '',
             location: {
                 center: [28.948, 41.057],
